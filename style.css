@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("hero.jpg");
+  height: 100vh;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("banner.jpg");
+  height: 100vh;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image1.jpg");
+  height: 100vh;
+}
